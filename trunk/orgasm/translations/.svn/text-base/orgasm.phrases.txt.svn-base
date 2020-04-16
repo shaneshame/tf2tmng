@@ -1,0 +1,136 @@
+﻿"Phrases"
+{
+	"ConnectMessage"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"New client {green}{1}{default} has a kill-streak record of {green}{2}"
+	}
+	"DatabaseReset"
+	{
+		"en"		"You have reset the database"	
+	}
+	"RoundEndMsg"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{teamcolor}{1}'s {green}{2}-kill streak {default}was ended by the {green}round ending!"
+		"pl"		"{defaultSeria {green}{2}-zabójstw {teamcolor}{1} {default}została zakończona z powodu {green}końca rundy!"
+	}
+	"HighestStreak"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{teamcolor}{1}{default} has the highest kill-streak! {teamcolor}{2} kills!"
+		"pl"		"{teamcolor}{1}{default} ma największą serię zabójstw! {teamcolor}{2} zabójstw(a)!"
+	}
+	"Highest2"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{olive}{1}{default} both have the highest kill-streak! {green}{2} kills!"
+		"pl"		"{olive}{1}{default} oboje mają największą serię zabójstw! {green}{2} zabójstw(a)!"
+	}
+	"HighestMult"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{olive}{1} {default}all have the highest kill-streak! {green}{2} kills!"
+		"pl"		"{olive}{1} {default}mają największą serię zabójstw! {green}{2} zabójstw(a)!"
+	}
+	"DeathMsg1"
+	{
+		"#format"	"{1:s},{2:i},{3:s}"
+		"en"		"{teamcolor}{1}{default} died at the hands of {green}{3} {default}ending a {teamcolor}kill-streak of {2}!"
+		"pl"		"{teamcolor}{1}{default} umarł z ręki {green}{3} {default}kończąc serię {teamcolor}{2}-ma zabójstw!"
+	}
+	"DeathMsg2"
+	{
+		"#format"	"{1:s},{2:i},{3:s}"
+		"en"		"{teamcolor}{1}{default} had gotten {teamcolor}{2} kills{default} without dying! {green}{3}{default} stopped the rampage!"
+		"pl"		"{green}{1}{default} zakończył szaleństwo! {teamcolor}{2}{default} miał zgarnięte {teamcolor}{3}-zabójstw(a) {default}bez śmierci!"
+	}
+	"DeathMsg3"
+	{
+		"#format"	"{1:s},{2:i},{3:s}"
+		"en"		"{teamcolor}{1}{default} had a {teamcolor}{2}-kill streak!{default} It was ended by {green}{3}"
+		"pl"		"{teamcolor}{1}{default} miał serię {teamcolor}{2}-zabójstw! {default}Została zakończona przez {green}{3}"
+	}
+	"SuicideMsg"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{teamcolor}{1}{default} ended thier own {teamcolor}{2}-kill streak{default} with a {green}suicide!"
+		"pl"		"{teamcolor}{1}{default} zakończył swoją własną serię {teamcolor}{2}-zabójstw {default}popełniając {green}samobójstwo!"
+	}
+	"FirstBlood"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{teamcolor}{1}{default} got {olive}first blood {default}in this round by killing {green}{2}{default}!"
+		"pl"		"{teamcolor}{1}{default} zdobył {olive}pierwszą krew {default}w tej rundzie zabijając {green}{2}{default}!"
+	}
+	"GenericStreak"
+	{
+		"#format"	"{1:i}"
+		"en"		"Kill-streak: {1}"
+		"pl"		"Seria zabójstw: {1}"
+	}
+	"StreakMsg"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{teamcolor}{1}{default} has just gotten {teamcolor}{2} kills{green} in a row!"
+		"pl"		"{teamcolor}{1}{default} właśnie zgarnął {teamcolor}{2} zabójstw(a) pod rząd!"
+	}
+	"Hint1"
+	{
+		"#format"	"{1:i}"
+		"en"		"Good job! You have a {1}-kill streak!"
+		"pl"		"Dobra robota! Masz serię {1}-zabójstw!"
+	}
+	"Hint2"
+	{
+		"#format"	"{1:i}"
+		"en"		"I love this {1}-kill streak!"
+		"pl"		"Kocham tą serię {1}-zabójstw!"
+	}
+	"Hint3"
+	{
+		"#format"	"{1:i}"
+		"en"		"Amazing! {1} kills without a death!"
+		"pl"		"Niesamowite! {1} zabójstw bez śmierci!"
+	}
+	"Hint4"
+	{
+		"#format"	"{1:i}"
+		"en"		"YES! You have killed {1} in a row!"
+		"pl"		"TAK! Zabiłeś {1} z rzędu!"
+	}
+	"Hint5"
+	{
+		"#format"	"{1:i}"
+		"en"		"Well done! You got a {1}-kill streak!"
+		"pl"		"Doskonale! Zdobyłeś serię {1}-zabójstw!"
+	}
+	"Hint6"
+	{
+		"#format"	"{1:i}"
+		"en"		"Ohhh YES! You have a {1}-kill streak!"
+		"pl"		"Oooo TAK! Masz serię {1}-zabójstw!"
+	}
+	"Hint7"
+	{
+		"#format"	"{1:i}"
+		"en"		"You maniac! {1} kill-streak!"
+		"pl"		"Jesteś szaleńcem! Seria {1}-zabójstw!"
+	}
+	"Hint8"
+	{
+		"#format"	"{1:i}"
+		"en"		"YES YES YES! You have a {1}-kill streak!"
+		"pl"		"TAK TAK TAK! Masz serię {1}-zabójstw!"
+	}
+	"Hint9"
+	{
+		"#format"	"{1:i}"
+		"en"		"You Crazed Killer! You got {1} kills in a row!"
+		"pl"		"Jesteś Maniakalnym Zabójcą! Zdobyłeś serię {1}-zabójstw pod rząd!"
+	}
+	"AreYouSure"
+	{
+		"en"		"Are you sure you want to reset the database? Run sm_orgasm_reset again in 30 seconds to confirm"
+	}
+}

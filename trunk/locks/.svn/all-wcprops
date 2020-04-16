@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/165/trunk/locks
+END
+db.lock
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/165/trunk/locks/db.lock
+END
+db-logs.lock
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/165/trunk/locks/db-logs.lock
+END

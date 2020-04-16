@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/214/trunk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/165/trunk/README.txt
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/166/trunk/test.txt
+END
+svn.ico
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/165/trunk/svn.ico
+END
+Desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/165/trunk/Desktop.ini
+END
+format
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/165/trunk/format
+END
